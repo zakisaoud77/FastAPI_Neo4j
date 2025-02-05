@@ -1,0 +1,8 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+*.pytest_cache
+# Excluding the lock from the template repository
+poetry.lock
