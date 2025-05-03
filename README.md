@@ -1,4 +1,4 @@
-# Technical Challenge - Software Engineer - Backend
+# Social Network with Fastapi and Neo4j
 
 ## Goal
 
